@@ -55,4 +55,6 @@ They are implemented for possible compatibility in the future releases of Terrar
 
 --------------------
 
-**`drop`:** Custom drop for this NPC. Syntax: **`drop=itemId:amount:chance`**
+**`drop`:** Custom drop for this NPC.
+
+Syntax: **`drop=itemId:amount:chance`**
