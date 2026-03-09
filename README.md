@@ -1,10 +1,10 @@
-# SpawnMobX [[GitHub Releases](https://github.com/KostyaJRZ/SpawnMobX/releases/download/1.0/SpawnMobX.dll)]
+# SpawnMobX [[GitHub Releases](https://github.com/PakeMPC/SpawnMobXY/releases/)]
 🧟 *Spawn mobs with special properties!*
 
 Perfect for usage with [Command-Timelines](https://github.com/Enerdy/Command-Timelines).
 
 ## Installation
-Drop [the plugin](https://github.com/KostyaJRZ/SpawnMobX/releases) to your `ServerPlugins/` folder. That's all!
+Drop [the plugin](https://github.com/PakeMPC/SpawnMobXY/releases/) to your `ServerPlugins/` folder. That's all!
 
 Give the `spawnmobx.use` permission to the groups you wish to give access to the command.
 
@@ -52,3 +52,7 @@ They are implemented for possible compatibility in the future releases of Terrar
 --------------------
 
 **`ai0` to `ai3`:** A floating point number altering various behaviors of the NPC's AI. *May not work client side, or with "simpler" NPCs.*
+
+--------------------
+
+**`drop`:** Custom drop for this NPC. Syntax: **`drop=itemId:amount:chance`**
