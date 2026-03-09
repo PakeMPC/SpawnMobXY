@@ -1,5 +1,5 @@
 # SpawnMobX [[GitHub Releases](https://github.com/PakeMPC/SpawnMobXY/releases/)]
-🧟 *Spawn mobs with special properties!*
+🧟 *Spawn mobs with special properties and personalized drops*
 
 Perfect for usage with [Command-Timelines](https://github.com/Enerdy/Command-Timelines).
 
